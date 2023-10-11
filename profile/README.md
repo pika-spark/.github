@@ -1,5 +1,6 @@
 <a href="https://pika-spark.io/"><img align="right" src="logo/logo-pika-spark-bg-white.png" width="15%"></a>
-## Hi there :coffee: :wave:
+Hi there :coffee: :wave:
+========================
 This is the :octocat: home of the [Pika Spark](https://pika-spark.io/) project.
 
 <p align="center">
